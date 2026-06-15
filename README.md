@@ -659,3 +659,54 @@ I linguaggi di programmazione sono una applicazione diretta della logica matemat
 I sistemi di tipi continuano a evolversi verso forme sempre più espressive, i tipi dipendenti, i linear types, adottati da Rust con il sistema di ownership e da Linear Haskell che tracciano chi possiede una risorsa e quando può essere rilasciata, eliminando intere categorie di bug di memoria. I sistemi di effetti che annotano le funzioni con le risorse che usano, permettendo ottimizzazioni aggressive sulle funzioni pure. E il gradual typing che permette di mescolare codice staticamente tipizzato e codice dinamico nello stesso programma, migrando gradualmente verso garanzie più forti. Il sogno è scrivere specifiche matematiche precise e farle verificare automaticamente dal compilatore, e un giorno sarò cosi e i bug saranno strutturalmente impossibili.
 
 Ora andate a cucinare, e fate attenzione alla memoria. 👨‍🍳
+
+
+
+
+---
+
+
+# 📜 **Licenza (IT + EN)**
+
+
+## 🇮🇹 **Italiano**
+
+Questo documento è rilasciato sotto licenza **Creative Commons CC BY‑NC‑ND 4.0**.  
+È consentita la **condivisione** del testo, a condizione che:
+
+- venga fornita **attribuzione** all’autore;  
+- non venga effettuato **alcun uso commerciale**;  
+- il contenuto non venga **modificato**, **adattato**, **remixato** o trasformato in alcun modo.
+
+**Eccezione per la traduzione:** In deroga alla clausola *ND (NoDerivatives)*, è **espressamente consentita la traduzione integrale** del documento, purché:
+
+- la traduzione sia **fedele** al testo originale;  
+- venga mantenuta l’**attribuzione** all’autore;  
+- non venga effettuato **alcun uso commerciale**;  
+- sia chiaramente indicato che si tratta di una **traduzione autorizzata**.
+
+Qualsiasi altra forma di modifica o opera derivata non è permessa.
+
+---
+
+## 🇬🇧 **English**
+
+This document is licensed under the **Creative Commons CC BY‑NC‑ND 4.0** license.  
+You may **share** the text provided that:
+
+- proper **attribution** is given to the author;  
+- no **commercial use** is made;  
+- the content is not **modified**, **adapted**, **remixed**, or transformed in any way.
+
+**Translation Exception**: As an explicit exception to the *ND (NoDerivatives)* clause, **full and faithful translations** of this document are permitted, provided that:
+
+- the translation remains **faithful** to the original text;  
+- proper **attribution** to the author is maintained;  
+- no **commercial use** is made;  
+- it is clearly stated that the work is an **authorized translation**.
+
+Any other form of modification or derivative work is not allowed.
+
+---
+
+---
