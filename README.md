@@ -1,4 +1,4 @@
-# Appunti Sui Linguaggi
+# 📖 Appunti Sui Linguaggi
 
 ---
 
